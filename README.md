@@ -1,6 +1,6 @@
 # Hi 👋, I'm David Gabriel
 
-🚀 **Senior Software Engineer | JavaScript Specialist**  
+🚀 **Junior Software Engineer | JavaScript Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
